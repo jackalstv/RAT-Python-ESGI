@@ -1,6 +1,6 @@
 # RAT-Python
 
-Projet final M1 Cybersécurité ESGI — Remote Administration Tool en Python.
+Projet M1 Cybersécurité ESGI — Remote Administration Tool en Python.
 
 > **Projet éducatif uniquement.** Ne pas utiliser sur des machines sans autorisation.
 
